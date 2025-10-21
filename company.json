@@ -10,38 +10,24 @@
 
   "/telsk": "+32 472 86 96 68",
   "/teljmd": "+32 474 74 08 07",
+  "/telab": "+32 493 64 83 98",
+  "/telpc": "",
+  "/teltn": "+32 493 64 83 98",
+  "/telac": "+32 493 64 83 98",
+  "/telmsc": "+32 493 64 83 98",
 
   "/ipisk": "505.256",
   "/ipijmd": "504.471",
+  "/ipitn": "516.895",
+  "/ipipc": "519.112",
+  "/ipimsc": "512.524",
 
   "/cire": "Christie's Int. Real Estate",
   "/website": "https://www.christiesrealestatebelgium.be",
   "/telbxl": "+32 2 808 03 64",
   "/telwoo": "+32 2 880 15 17",
   "/tva": "Hillewaere Real Estate Brussels SRL\\nParklaan 46, 2300 Turnhout\\nBE 1008.898.978",
+
+  "/cv": "Chère Madame\\nCher Monsieur,\\n Nous vous remercions pour l'intérêt que vous portez à Christie's International Real Estate Belgique et pour votre candidature de stage. Nous apprécions votre démarche et votre motivation. Cependant, notre bureau immobilier vient tout juste de débuter ses activités et nous ne sommes malheureusement pas en mesure d'accueillir des stagiaires pour le moment.\\n Nous conservons néanmoins votre CV dans nos dossiers. Si des opportunités de stage se présentent à partir de juin 2025, nous ne manquerons pas de vous recontacter. Nous vous souhaitons beaucoup de succès dans vos études et votre future carrière. \\n\\nCordialement,",
   
-  "brb": "Be right back",
-  "ty": "Thank you",
-  "tyvm": "Thank you very much",
-  "np": "No problem",
-  "lmk": "Let me know",
-  "fyi": "For your information",
-  "asap": "As soon as possible",
-  "eod": "End of day",
-  "wfh": "Working from home",
-  "ooo": "Out of office",
-  
-  "addr": "Nom de votre entreprise\n123 Rue Principale\n75001 Paris, France",
-  
-  "tel": "+33 1 23 45 67 89",
-  "email": "contact@votreentreprise.com",
-  "site": "https://www.votreentreprise.com",
-  
-  "sig": "Cordialement,\n[Votre Nom]\n[Votre Poste]\nNom de l'entreprise\nTel: +33 1 23 45 67 89\nEmail: contact@votreentreprise.com",
-  
-  "meeting": "Bonjour,\n\nJe vous propose de planifier une réunion pour discuter de ce sujet.\n\nMerci de me faire part de vos disponibilités.\n\nCordialement",
-  
-  "followup": "Bonjour,\n\nJe me permets de revenir vers vous concernant notre dernier échange.\n\nRestez-vous disponible pour en discuter ?\n\nCordialement",
-  
-  "support": "Bonjour,\n\nMerci de nous avoir contactés. Notre équipe examine votre demande et reviendra vers vous dans les plus brefs délais.\n\nCordialement,\nL'équipe support"
-}
+  }
