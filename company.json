@@ -28,6 +28,5 @@
   "/telwoo": "+32 2 880 15 17",
   "/tva": "Hillewaere Real Estate Brussels SRL\\nParklaan 46, 2300 Turnhout\\nBE 1008.898.978",
 
-  "/docusign": "Chère Madame, Cher Monsieur,\\nFaisant suite à vos échanges avec [AGENT] concernant la mise en vente de votre propriété sise [ADRESSE] à [CODE POSTAL], nous avons le plaisir de vous transmettre ci-joint votre convention, prête à être signée électroniquement via DocuSign.\\nNous demeurons à votre entière disposition pour toute précision que vous jugeriez utile.\\nCordialement,"
-  
+  "/docusign":"Chère Madame, Cher Monsieur,\\n\\nFaisant suite à vos échanges avec [AGENT] concernant la mise en vente de votre propriété sise [ADRESSE] à [CODE POSTAL], nous avons le plaisir de vous transmettre ci-joint votre convention, prête à être signée électroniquement via DocuSign.\\n\\nNous demeurons à votre entière disposition pour toute précision que vous jugeriez utile.\\n\\nCordialement,"
 }
