@@ -1,5 +1,6 @@
 {
 
+  // Emails
   "/sk": "sk@christiesrealestatebelgium.be",
   "/jmd": "jmd@christiesrealestatebelgium.be",
   "/ab": "ab@christiesrealestatebelgium.be",
@@ -7,7 +8,9 @@
   "/tn": "tn@christiesrealestatebelgium.be",
   "/msc": "msc@christiesrealestatebelgium.be",
   "/ac": "sk@christiesrealestatebelgium.be",
-  
+
+  "/website": "https://www.christiesrealestatebelgium.be",
+  "/tva": "Hillewaere Real Estate Brussels SRL\nParklaan 46, 2300 Turnhout",
   
   "brb": "Be right back",
   "ty": "Thank you",
